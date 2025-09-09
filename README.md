@@ -1,6 +1,10 @@
 <!-- Profile README for GitHub: premnayan14 -->
 
 <h1 align="center">Hi 👋, I'm Prem Nayan</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=premnayan14&color=blue&style=flat" />
+  <img src="https://profile-counter.glitch.me/premnayan14/count.svg" />
+</p>
 <h3 align="center">Aspiring AI/ML Engineer | Competitive Programmer | Full-Stack Developer</h3>
 
 <p align="center">
@@ -34,9 +38,9 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- ✅ Completed **15+ hour MOOC on React.js** with certification  
+<!-- - ✅ Completed **15+ hour MOOC on React.js** with certification   -->
 - ✅ Daily streak of **solving LeetCode challenges**  
-- ✅ Experience in **Full-Stack Development** (MERN stack)  
+<!-- - ✅ Experience in **Full-Stack Development** (MERN stack)   -->
 - ✅ Strong foundation in **Data Structures & Algorithms**  
 
 ---
@@ -44,13 +48,13 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/premnayan14"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://www.linkedin.com/in/prem-nayan/"/></a>
+  <a href="mailto:premnayan73@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+<!-- ### 🐍 Contribution Graph
 <p align="center">
   <img src="https://github.com/premnayan14/premnayan14/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
