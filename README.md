@@ -17,7 +17,7 @@
 - 🎓 Student at **Lovely Professional University**  
 - 💡 Interested in **Artificial Intelligence, Machine Learning, and Web Development**  
 - 📚 Solving **LeetCode problems daily** to sharpen my DSA skills  
-- 🌱 Currently learning **C, C++, Python, React, and ML algorithms**  
+- 🌱 Currently learning **C, C++, Python, Java, React, AI and ML algorithms**  
 - 🎯 Goal: **Crack top tech interviews and build impactful projects**
 
 ---
